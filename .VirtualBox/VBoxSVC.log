@@ -1,0 +1,166 @@
+00:00:00.003610 main     VirtualBox COM Server 7.1.8 r168469 win.amd64 (Apr 11 2025 16:45:31) release log
+00:00:00.003612 main     Log opened 2025-08-12T19:41:26.008761300Z
+00:00:00.003612 main     Build Type: release
+00:00:00.003617 main     OS Product: Windows 11
+00:00:00.003618 main     OS Release: 10.0.26100
+00:00:00.003618 main     OS Service Pack: 
+00:00:00.073944 main     DMI Product Name: ASUS TUF Gaming F15 FX506LI_FX506LI
+00:00:00.085650 main     DMI Product Version: 1.0
+00:00:00.085659 main     Firmware type: UEFI
+00:00:00.086067 main     Secure Boot: Disabled
+00:00:00.086076 main     Host RAM: 12125MB (11.8GB) total, 3773MB (3.6GB) available
+00:00:00.086081 main     Executable: C:\Program Files\Oracle\VirtualBox\VBoxSVC.exe
+00:00:00.086081 main     Process ID: 18340
+00:00:00.086082 main     Package type: WINDOWS_64BITS_GENERIC
+00:00:00.086318 main     Windows Features:
+00:00:00.086319 main       Core Isolation (Memory Integrity): ENABLED
+00:00:00.152516          VirtualBox: object creation starts
+00:00:00.153370          Home directory: 'C:\Users\kicks\.VirtualBox'
+00:00:00.153653          Installed Drivers:
+00:00:00.184980          Loading settings file "C:\Users\kicks\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:00.189428          usbLibGetDevices: Starting USB device enumeration
+00:00:00.190918          Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&16bab057&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 7
+00:00:00.190980          Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&16bab057&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 14
+00:00:00.192695          usbLibGetDevices: Found 3 USB devices, 0 captured
+00:00:00.193249          USB: Unknown USB device detected (idVendor: 0x13d3, idProduct: 0x56a2)
+00:00:00.194329          USB: Unknown USB device detected (idVendor: 0x8087, idProduct: 0x0026)
+00:00:00.285848          HostDnsMonitor: initializing
+00:00:00.294673          HostDnsMonitor: updating information
+00:00:00.295295          HostDnsMonitor: old information
+00:00:00.295297            no server entries
+00:00:00.295297            no domain set
+00:00:00.295298            no search string entries
+00:00:00.295298          HostDnsMonitor: new information
+00:00:00.295298            server 1: 10.191.54.2
+00:00:00.295299            server 2: 187.253.45.10
+00:00:00.295299            no domain set
+00:00:00.295299            no search string entries
+00:00:00.304201          VD: VDInit finished with VINF_SUCCESS
+00:00:00.309283          Platform architecture set to 'x86'
+00:00:00.319498          Loading settings file "C:\Users\kicks\VirtualBox VMs\Proyecto Final de Sistemas\Proyecto Final de Sistemas.vbox" with version "1.19-windows"
+00:00:00.321736          Platform architecture set to 'x86'
+00:00:00.323616          VirtualBox: object created
+00:00:00.428675          Saving settings file "C:\Users\kicks\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:00.432871          Finished saving settings file "C:\Users\kicks\.VirtualBox\VirtualBox.xml"
+00:00:00.433154          Saving settings file "C:\Users\kicks\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:00.435605          Finished saving settings file "C:\Users\kicks\.VirtualBox\VirtualBox.xml"
+00:00:00.435822          Saving settings file "C:\Users\kicks\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:00.437905          Finished saving settings file "C:\Users\kicks\.VirtualBox\VirtualBox.xml"
+00:00:01.195547          NvramStore: Loading 'TpmEmuTpms/permall' from archive
+00:00:01.195675          NvramStore: Loading 'efi/nvram' from archive
+00:00:01.312824          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={MachineWrap} aText={The machine is not mutable, saved or running (state is PoweredOff)}, preserve=false aResultDetail=0
+00:01:17.686793          Saving settings file "C:\Users\kicks\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:01:17.689038          Finished saving settings file "C:\Users\kicks\.VirtualBox\VirtualBox.xml"
+00:01:17.689272          Saving settings file "C:\Users\kicks\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:01:17.691312          Finished saving settings file "C:\Users\kicks\.VirtualBox\VirtualBox.xml"
+00:01:17.697565 DeleteVM Saving settings file "C:\Users\kicks\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:01:17.701534 DeleteVM Finished saving settings file "C:\Users\kicks\.VirtualBox\VirtualBox.xml"
+00:01:17.714173          Saving settings file "C:\Users\kicks\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:01:17.717621          Finished saving settings file "C:\Users\kicks\.VirtualBox\VirtualBox.xml"
+00:01:17.749601          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={d644ad1e-c501-4fc7-9ab6-aa6d763bc540} aComponent={VirtualBoxWrap} aText={Could not find a registered machine with UUID {1a98531d-9106-4e3f-9009-72aafbbf6569}}, preserve=false aResultDetail=0
+00:01:17.769382          ERROR [COM]: aRC=E_FAIL (0x80004005) aIID={bea3ef5c-de2f-4b74-aa3a-15d6249371a0} aComponent={RecordingSettingsWrap} aText={Recording not started}, preserve=false aResultDetail=0
+00:01:18.330506          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={d644ad1e-c501-4fc7-9ab6-aa6d763bc540} aComponent={VirtualBoxWrap} aText={Could not find a registered machine with UUID {1a98531d-9106-4e3f-9009-72aafbbf6569}}, preserve=false aResultDetail=0
+00:01:18.353789          ERROR [COM]: aRC=E_FAIL (0x80004005) aIID={bea3ef5c-de2f-4b74-aa3a-15d6249371a0} aComponent={RecordingSettingsWrap} aText={Recording not started}, preserve=false aResultDetail=0
+00:02:09.283382 dns-monitor HostDnsMonitor: updating information
+00:02:09.283412 dns-monitor HostDnsMonitor: unchanged
+00:26:07.417667 USBPROXY usbLibGetDevices: Starting USB device enumeration
+00:26:07.419138 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&16bab057&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 7
+00:26:07.419215 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&16bab057&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 14
+00:26:07.419375 USBPROXY usbLibGetDevices: Found 3 USB devices, 0 captured
+01:02:09.313952 dns-monitor HostDnsMonitor: updating information
+01:02:09.314266 dns-monitor HostDnsMonitor: unchanged
+01:49:24.214139 createBase Saving settings file "C:\Users\kicks\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+01:49:24.219226 createBase Finished saving settings file "C:\Users\kicks\.VirtualBox\VirtualBox.xml"
+01:49:24.243146          Platform architecture set to 'x86'
+01:49:24.243483          Platform architecture set to 'x86'
+01:49:24.243520          Platform architecture set to 'x86'
+01:49:24.245333          Platform architecture set to 'x86'
+01:49:24.250789          Saving settings file "C:\Users\kicks\VirtualBox VMs\Ubuntu\Ubuntu.vbox" with version "1.19-windows"
+01:49:24.255021          Finished saving settings file "C:\Users\kicks\VirtualBox VMs\Ubuntu\Ubuntu.vbox"
+01:49:24.255310          Saving settings file "C:\Users\kicks\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+01:49:24.259551          Finished saving settings file "C:\Users\kicks\.VirtualBox\VirtualBox.xml"
+01:49:24.267104          Platform architecture set to 'x86'
+01:49:24.272038          Saving settings file "C:\Users\kicks\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+01:49:24.276445          Finished saving settings file "C:\Users\kicks\.VirtualBox\VirtualBox.xml"
+01:49:24.279091          Saving settings file "C:\Users\kicks\VirtualBox VMs\Ubuntu\Ubuntu.vbox" with version "1.19-windows"
+01:49:24.282571          Finished saving settings file "C:\Users\kicks\VirtualBox VMs\Ubuntu\Ubuntu.vbox"
+01:49:24.328501          Saving settings file "C:\Users\kicks\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+01:49:24.333953          Finished saving settings file "C:\Users\kicks\.VirtualBox\VirtualBox.xml"
+01:49:24.824136          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+01:49:24.878647          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={MachineWrap} aText={The machine is not mutable, saved or running (state is PoweredOff)}, preserve=false aResultDetail=0
+01:50:55.436527          Platform architecture set to 'x86'
+01:50:55.445274          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+01:50:56.196506          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+01:50:56.268528          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={MachineWrap} aText={The machine is not mutable, saved or running (state is PoweredOff)}, preserve=false aResultDetail=0
+01:54:58.450743          Saving settings file "C:\Users\kicks\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+01:54:58.456060          Finished saving settings file "C:\Users\kicks\.VirtualBox\VirtualBox.xml"
+01:55:12.204912          Saving settings file "C:\Users\kicks\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+01:55:12.209711          Finished saving settings file "C:\Users\kicks\.VirtualBox\VirtualBox.xml"
+01:57:29.502339          Platform architecture set to 'x86'
+01:57:29.591947          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={SessionMachine} aText={No storage device attached to device slot 0 on port 0 of controller 'IDE'}, preserve=false aResultDetail=0
+01:57:29.594160          Saving settings file "C:\Users\kicks\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+01:57:29.600667          Finished saving settings file "C:\Users\kicks\.VirtualBox\VirtualBox.xml"
+01:57:29.664304          Saving settings file "C:\Users\kicks\VirtualBox VMs\Ubuntu\Ubuntu.vbox" with version "1.19-windows"
+01:57:29.670396          Finished saving settings file "C:\Users\kicks\VirtualBox VMs\Ubuntu\Ubuntu.vbox"
+01:57:29.801762          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+01:57:29.808955          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={MachineWrap} aText={The machine is not mutable, saved or running (state is PoweredOff)}, preserve=false aResultDetail=0
+01:57:33.746108          Launched VM: 2553978256 pid: 12768 (0x31e0) frontend: GUI/Qt name: Ubuntu
+01:57:33.813845          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+01:57:33.841013          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={MachineWrap} aText={The machine is not mutable, saved or running (state is PoweredOff)}, preserve=false aResultDetail=0
+01:57:42.627193          Platform architecture set to 'x86'
+01:57:42.764733          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+01:57:42.770976          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={MachineWrap} aText={The machine is not mutable, saved or running (state is PoweredOff)}, preserve=false aResultDetail=0
+01:57:43.422120          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={70401eef-c8e9-466b-9660-45cb3e9979e4} aComponent={ExtPackManagerWrap} aText={No extension pack by the name 'Oracle VirtualBox Extension Pack' was found}, preserve=false aResultDetail=0
+01:57:43.552132          ERROR [COM]: aRC=E_FAIL (0x80004005) aIID={bea3ef5c-de2f-4b74-aa3a-15d6249371a0} aComponent={RecordingSettingsWrap} aText={Recording not started}, preserve=false aResultDetail=0
+01:57:46.747190          ERROR [COM]: aRC=E_FAIL (0x80004005) aIID={bea3ef5c-de2f-4b74-aa3a-15d6249371a0} aComponent={RecordingSettingsWrap} aText={Recording not started}, preserve=false aResultDetail=0
+01:57:46.757398          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+01:57:46.777497          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={SessionMachine} aText={The machine is not mutable or saved (state is Starting)}, preserve=false aResultDetail=0
+01:57:46.811465          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={MachineWrap} aText={The machine is not mutable, saved or running (state is Starting)}, preserve=false aResultDetail=0
+01:57:47.009532          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={SessionMachine} aText={The machine is not mutable or saved (state is Starting)}, preserve=false aResultDetail=0
+01:57:47.016443          Saving settings file "C:\Users\kicks\VirtualBox VMs\Ubuntu\Ubuntu.vbox" with version "1.19-windows"
+01:57:47.026957          Finished saving settings file "C:\Users\kicks\VirtualBox VMs\Ubuntu\Ubuntu.vbox"
+01:57:47.057974          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+01:57:47.067544          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={MachineWrap} aText={The machine is not mutable, saved or running (state is Starting)}, preserve=false aResultDetail=0
+01:57:50.434414          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={7d510820-a678-4730-a862-818dcd3fbed0} aComponent={MediumWrap} aText={Property 'CRYPT/KeyId' does not exist}, preserve=false aResultDetail=0
+01:57:50.437412          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={7d510820-a678-4730-a862-818dcd3fbed0} aComponent={MediumWrap} aText={Property 'CRYPT/KeyId' does not exist}, preserve=false aResultDetail=0
+01:57:50.439234          HostDnsMonitorProxy::GetDomainName: no domain set
+01:57:50.439396          HostDnsMonitorProxy::GetNameServers:
+01:57:50.439421            name server 1: 10.191.54.2
+01:57:50.439437            name server 2: 187.253.45.10
+01:57:50.439574          HostDnsMonitorProxy::GetSearchStrings:
+01:57:50.439597            no search string entries
+01:57:50.569166          ERROR [COM]: aRC=E_FAIL (0x80004005) aIID={bea3ef5c-de2f-4b74-aa3a-15d6249371a0} aComponent={RecordingSettingsWrap} aText={Recording not started}, preserve=false aResultDetail=0
+01:57:50.635299          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+01:57:50.672484          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={MachineWrap} aText={The machine is not mutable, saved or running (state is Running)}, preserve=false aResultDetail=0
+01:57:53.565013          Saving settings file "C:\Users\kicks\VirtualBox VMs\Ubuntu\Ubuntu.vbox" with version "1.19-windows"
+01:57:53.571304          Finished saving settings file "C:\Users\kicks\VirtualBox VMs\Ubuntu\Ubuntu.vbox"
+01:57:53.594030          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+01:57:53.645758          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={MachineWrap} aText={The machine is not mutable, saved or running (state is Running)}, preserve=false aResultDetail=0
+01:58:14.201916          Saving settings file "C:\Users\kicks\VirtualBox VMs\Ubuntu\Ubuntu.vbox" with version "1.19-windows"
+01:58:14.206319          Finished saving settings file "C:\Users\kicks\VirtualBox VMs\Ubuntu\Ubuntu.vbox"
+01:58:14.217779          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+01:58:14.226503          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={MachineWrap} aText={The machine is not mutable, saved or running (state is Running)}, preserve=false aResultDetail=0
+02:01:59.792765          ERROR [COM]: aRC=E_FAIL (0x80004005) aIID={bea3ef5c-de2f-4b74-aa3a-15d6249371a0} aComponent={RecordingSettingsWrap} aText={Recording not started}, preserve=false aResultDetail=0
+02:01:59.873514          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+02:01:59.899562          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={MachineWrap} aText={The machine is not mutable, saved or running (state is Paused)}, preserve=false aResultDetail=0
+02:02:03.196128          Saving settings file "C:\Users\kicks\VirtualBox VMs\Ubuntu\Ubuntu.vbox" with version "1.19-windows"
+02:02:03.210519          Finished saving settings file "C:\Users\kicks\VirtualBox VMs\Ubuntu\Ubuntu.vbox"
+02:02:03.279452          ERROR [COM]: aRC=E_FAIL (0x80004005) aIID={bea3ef5c-de2f-4b74-aa3a-15d6249371a0} aComponent={RecordingSettingsWrap} aText={Recording not started}, preserve=false aResultDetail=0
+02:02:03.316538          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+02:02:03.349600          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={MachineWrap} aText={The machine is not mutable, saved or running (state is Stopping)}, preserve=false aResultDetail=0
+02:02:03.557706          Saving settings file "C:\Users\kicks\VirtualBox VMs\Ubuntu\Ubuntu.vbox" with version "1.19-windows"
+02:02:03.560551          Finished saving settings file "C:\Users\kicks\VirtualBox VMs\Ubuntu\Ubuntu.vbox"
+02:02:03.582840          ERROR [COM]: aRC=E_FAIL (0x80004005) aIID={bea3ef5c-de2f-4b74-aa3a-15d6249371a0} aComponent={RecordingSettingsWrap} aText={Recording not started}, preserve=false aResultDetail=0
+02:02:03.594774          ERROR [COM]: aRC=E_INVALIDARG (0x80070057) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={SessionMachine} aText={Properties with TRANSIENT or TRANSRESET flag cannot be set or modified if VM is not running}, preserve=false aResultDetail=0
+02:02:03.607679          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+02:02:03.663313          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={MachineWrap} aText={The machine is not mutable, saved or running (state is PoweredOff)}, preserve=false aResultDetail=0
+02:02:05.112220          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+02:02:05.142803          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={MachineWrap} aText={The machine is not mutable, saved or running (state is PoweredOff)}, preserve=false aResultDetail=0
+02:02:09.310482 dns-monitor HostDnsMonitor: updating information
+02:02:09.310508 dns-monitor HostDnsMonitor: unchanged
+02:02:36.172120 main     VirtualBox: object deletion starts
+02:02:36.172993 main     ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={7d510820-a678-4730-a862-818dcd3fbed0} aComponent={MediumWrap} aText={Medium 'D:\VirtualBox VMs\Ubuntu.vdi' cannot be closed because it is still attached to 1 virtual machines}, preserve=false aResultDetail=0
+02:02:36.177300 main     HostDnsMonitor: shutting down ...
+02:02:36.177432 main     HostDnsMonitor: shut down
+02:02:36.182397 Watcher  ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={d644ad1e-c501-4fc7-9ab6-aa6d763bc540} aComponent={VirtualBoxWrap} aText={The object is not ready}, preserve=false aResultDetail=0
+02:02:36.182687 main     VirtualBox: object deleted

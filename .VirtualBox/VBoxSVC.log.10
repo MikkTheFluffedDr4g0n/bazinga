@@ -1,0 +1,400 @@
+00:00:00.006152 main     VirtualBox COM Server 7.1.8 r168469 win.amd64 (Apr 11 2025 16:45:31) release log
+00:00:00.006154 main     Log opened 2025-06-04T17:38:22.065024600Z
+00:00:00.006155 main     Build Type: release
+00:00:00.006162 main     OS Product: Windows 11
+00:00:00.006163 main     OS Release: 10.0.26100
+00:00:00.006164 main     OS Service Pack: 
+00:00:00.037029 main     DMI Product Name: ASUS TUF Gaming F15 FX506LI_FX506LI
+00:00:00.050990 main     DMI Product Version: 1.0
+00:00:00.051004 main     Firmware type: UEFI
+00:00:00.051465 main     Secure Boot: Disabled
+00:00:00.051477 main     Host RAM: 12125MB (11.8GB) total, 6177MB (6.0GB) available
+00:00:00.051483 main     Executable: C:\Program Files\Oracle\VirtualBox\VBoxSVC.exe
+00:00:00.051484 main     Process ID: 22976
+00:00:00.051485 main     Package type: WINDOWS_64BITS_GENERIC
+00:00:00.051721 main     Windows Features:
+00:00:00.051722 main       Core Isolation (Memory Integrity): ENABLED
+00:00:00.126592          VirtualBox: object creation starts
+00:00:00.127835          Home directory: 'C:\Users\kicks\.VirtualBox'
+00:00:00.128261          Installed Drivers:
+00:00:00.159718          Loading settings file "C:\Users\kicks\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:00.169626          usbLibGetDevices: Starting USB device enumeration
+00:00:00.171701          Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&16bab057&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 7
+00:00:00.171792          Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&16bab057&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 14
+00:00:00.174533          usbLibGetDevices: Found 3 USB devices, 0 captured
+00:00:00.175440          USB: Unknown USB device detected (idVendor: 0x13d3, idProduct: 0x56a2)
+00:00:00.178684          USB: Unknown USB device detected (idVendor: 0x8087, idProduct: 0x0026)
+00:00:00.458217          HostDnsMonitor: initializing
+00:00:00.483189          HostDnsMonitor: updating information
+00:00:00.484447          HostDnsMonitor: old information
+00:00:00.484451            no server entries
+00:00:00.484453            no domain set
+00:00:00.484454            no search string entries
+00:00:00.484456          HostDnsMonitor: new information
+00:00:00.484457            server 1: 8.8.8.8
+00:00:00.484459            server 2: 8.8.4.4
+00:00:00.484460            no domain set
+00:00:00.484460            no search string entries
+00:00:00.506798          VD: VDInit finished with VINF_SUCCESS
+00:00:00.520745          Platform architecture set to 'x86'
+00:00:00.548744          Loading settings file "C:\Users\kicks\VirtualBox VMs\Wind 11\Wind 11.vbox" with version "1.19-windows"
+00:00:00.553959          Platform architecture set to 'x86'
+00:00:00.556151          Platform architecture set to 'x86'
+00:00:00.579660          Loading settings file "C:\Users\kicks\VirtualBox VMs\ws2019\ws2019.vbox" with version "1.19-windows"
+00:00:00.579979          Platform architecture set to 'x86'
+00:00:00.580427          Platform architecture set to 'x86'
+00:00:00.634582          Loading settings file "C:\Users\kicks\VirtualBox VMs\wind 19\wind 19.vbox" with version "1.19-windows"
+00:00:00.634827          Platform architecture set to 'x86'
+00:00:00.635055          Platform architecture set to 'x86'
+00:00:00.645421          Loading settings file "C:\Users\kicks\VirtualBox VMs\Ubuntu_\Ubuntu_.vbox" with version "1.19-windows"
+00:00:00.645621          Platform architecture set to 'x86'
+00:00:00.647871          VirtualBox: object created
+00:00:00.864392          Saving settings file "C:\Users\kicks\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:00.868322          Finished saving settings file "C:\Users\kicks\.VirtualBox\VirtualBox.xml"
+00:00:00.868657          Saving settings file "C:\Users\kicks\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:00.871737          Finished saving settings file "C:\Users\kicks\.VirtualBox\VirtualBox.xml"
+00:00:00.872101          Saving settings file "C:\Users\kicks\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:00.875999          Finished saving settings file "C:\Users\kicks\.VirtualBox\VirtualBox.xml"
+00:00:02.182790          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:00:02.403576          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={MachineWrap} aText={The machine is not mutable, saved or running (state is PoweredOff)}, preserve=false aResultDetail=0
+00:07:43.725149          Saving settings file "C:\Users\kicks\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:07:43.735060          Finished saving settings file "C:\Users\kicks\.VirtualBox\VirtualBox.xml"
+00:07:43.766981          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:07:43.787388          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={MachineWrap} aText={The machine is not mutable, saved or running (state is PoweredOff)}, preserve=false aResultDetail=0
+00:07:45.409676          Saving settings file "C:\Users\kicks\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:07:45.454924          Finished saving settings file "C:\Users\kicks\.VirtualBox\VirtualBox.xml"
+00:07:45.485846          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:07:45.505550          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={MachineWrap} aText={The machine is not mutable, saved or running (state is PoweredOff)}, preserve=false aResultDetail=0
+00:07:46.331446          Saving settings file "C:\Users\kicks\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:07:46.377189          Finished saving settings file "C:\Users\kicks\.VirtualBox\VirtualBox.xml"
+00:07:46.400923          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:07:46.418273          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={MachineWrap} aText={The machine is not mutable, saved or running (state is PoweredOff)}, preserve=false aResultDetail=0
+00:07:49.703943          Platform architecture set to 'x86'
+00:07:49.711610          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:07:50.342549          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:07:50.369737          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={MachineWrap} aText={The machine is not mutable, saved or running (state is PoweredOff)}, preserve=false aResultDetail=0
+00:07:55.928052          Platform architecture set to 'x86'
+00:07:56.160554          Saving settings file "C:\Users\kicks\VirtualBox VMs\wind 19\wind 19.vbox" with version "1.19-windows"
+00:07:56.169276          Finished saving settings file "C:\Users\kicks\VirtualBox VMs\wind 19\wind 19.vbox"
+00:07:56.325007          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:07:56.342129          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={MachineWrap} aText={The machine is not mutable, saved or running (state is PoweredOff)}, preserve=false aResultDetail=0
+00:08:55.771136          Platform architecture set to 'x86'
+00:08:55.775313          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:08:56.204958          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:08:56.217510          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={MachineWrap} aText={The machine is not mutable, saved or running (state is PoweredOff)}, preserve=false aResultDetail=0
+00:09:20.893156          Saving settings file "C:\Users\kicks\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:09:20.933969          Finished saving settings file "C:\Users\kicks\.VirtualBox\VirtualBox.xml"
+00:09:20.944926          Platform architecture set to 'x86'
+00:09:20.956910          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:09:21.190792          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:09:21.197405          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={MachineWrap} aText={The machine is not mutable, saved or running (state is PoweredOff)}, preserve=false aResultDetail=0
+00:09:23.110254          Saving settings file "C:\Users\kicks\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:09:23.155903          Finished saving settings file "C:\Users\kicks\.VirtualBox\VirtualBox.xml"
+00:09:23.166476          Platform architecture set to 'x86'
+00:09:23.176107          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:09:23.338283          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:09:23.344185          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={MachineWrap} aText={The machine is not mutable, saved or running (state is PoweredOff)}, preserve=false aResultDetail=0
+00:09:24.336713          Saving settings file "C:\Users\kicks\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:09:24.382532          Finished saving settings file "C:\Users\kicks\.VirtualBox\VirtualBox.xml"
+00:09:24.394248          Platform architecture set to 'x86'
+00:09:24.403764          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:09:24.614961          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:09:24.622709          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={MachineWrap} aText={The machine is not mutable, saved or running (state is PoweredOff)}, preserve=false aResultDetail=0
+00:09:24.915769          Saving settings file "C:\Users\kicks\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:09:24.961277          Finished saving settings file "C:\Users\kicks\.VirtualBox\VirtualBox.xml"
+00:09:24.972484          Platform architecture set to 'x86'
+00:09:24.982051          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:09:25.144626          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:09:25.150053          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={MachineWrap} aText={The machine is not mutable, saved or running (state is PoweredOff)}, preserve=false aResultDetail=0
+00:09:25.459846          Saving settings file "C:\Users\kicks\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:09:25.504885          Finished saving settings file "C:\Users\kicks\.VirtualBox\VirtualBox.xml"
+00:09:25.516125          Platform architecture set to 'x86'
+00:09:25.525909          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:09:25.716348          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:09:25.724435          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={MachineWrap} aText={The machine is not mutable, saved or running (state is PoweredOff)}, preserve=false aResultDetail=0
+00:09:26.095156          Saving settings file "C:\Users\kicks\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:09:26.139323          Finished saving settings file "C:\Users\kicks\.VirtualBox\VirtualBox.xml"
+00:09:26.150430          Platform architecture set to 'x86'
+00:09:26.159431          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:09:26.383773          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:09:26.392949          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={MachineWrap} aText={The machine is not mutable, saved or running (state is PoweredOff)}, preserve=false aResultDetail=0
+00:09:26.732939          Saving settings file "C:\Users\kicks\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:09:26.781305          Finished saving settings file "C:\Users\kicks\.VirtualBox\VirtualBox.xml"
+00:09:26.791192          Platform architecture set to 'x86'
+00:09:26.799711          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:09:26.977664          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:09:26.984989          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={MachineWrap} aText={The machine is not mutable, saved or running (state is PoweredOff)}, preserve=false aResultDetail=0
+00:09:27.199144          Saving settings file "C:\Users\kicks\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:09:27.241806          Finished saving settings file "C:\Users\kicks\.VirtualBox\VirtualBox.xml"
+00:09:27.251289          Platform architecture set to 'x86'
+00:09:27.260133          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:09:27.536045          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:09:27.545820          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={MachineWrap} aText={The machine is not mutable, saved or running (state is PoweredOff)}, preserve=false aResultDetail=0
+00:09:31.002559          Saving settings file "C:\Users\kicks\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:09:31.043710          Finished saving settings file "C:\Users\kicks\.VirtualBox\VirtualBox.xml"
+00:09:31.047764          Platform architecture set to 'x86'
+00:09:31.052630          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:09:31.233872          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:09:31.243699          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={MachineWrap} aText={The machine is not mutable, saved or running (state is PoweredOff)}, preserve=false aResultDetail=0
+00:09:32.898704          Saving settings file "C:\Users\kicks\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:09:32.942684          Finished saving settings file "C:\Users\kicks\.VirtualBox\VirtualBox.xml"
+00:09:32.954023          Platform architecture set to 'x86'
+00:09:32.964321          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:09:33.155997          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:09:33.162783          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={MachineWrap} aText={The machine is not mutable, saved or running (state is PoweredOff)}, preserve=false aResultDetail=0
+00:09:37.147131          Saving settings file "C:\Users\kicks\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:09:37.191513          Finished saving settings file "C:\Users\kicks\.VirtualBox\VirtualBox.xml"
+00:09:37.202596          Platform architecture set to 'x86'
+00:09:37.207151          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:09:37.361001          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:09:37.367471          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={MachineWrap} aText={The machine is not mutable, saved or running (state is PoweredOff)}, preserve=false aResultDetail=0
+00:09:37.597627          Saving settings file "C:\Users\kicks\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:09:37.641620          Finished saving settings file "C:\Users\kicks\.VirtualBox\VirtualBox.xml"
+00:09:37.652795          Platform architecture set to 'x86'
+00:09:37.662215          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:09:37.868535          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:09:37.880202          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={MachineWrap} aText={The machine is not mutable, saved or running (state is PoweredOff)}, preserve=false aResultDetail=0
+00:09:38.267222          Saving settings file "C:\Users\kicks\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:09:38.285360          Finished saving settings file "C:\Users\kicks\.VirtualBox\VirtualBox.xml"
+00:09:38.294743          Platform architecture set to 'x86'
+00:09:38.302639          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:09:38.592851          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:09:38.604239          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={MachineWrap} aText={The machine is not mutable, saved or running (state is PoweredOff)}, preserve=false aResultDetail=0
+00:09:40.311301          Saving settings file "C:\Users\kicks\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:09:40.316708          Finished saving settings file "C:\Users\kicks\.VirtualBox\VirtualBox.xml"
+00:09:40.323694          Platform architecture set to 'x86'
+00:09:40.329023          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:09:40.460812          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:09:40.529373          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:09:40.533255          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={MachineWrap} aText={The machine is not mutable, saved or running (state is PoweredOff)}, preserve=false aResultDetail=0
+00:09:41.141522          Saving settings file "C:\Users\kicks\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:09:41.187209          Finished saving settings file "C:\Users\kicks\.VirtualBox\VirtualBox.xml"
+00:09:41.198594          Platform architecture set to 'x86'
+00:09:41.208331          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:09:41.373065          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:09:41.380226          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={MachineWrap} aText={The machine is not mutable, saved or running (state is PoweredOff)}, preserve=false aResultDetail=0
+00:09:47.468835          Platform architecture set to 'x86'
+00:09:47.585347          Saving settings file "C:\Users\kicks\VirtualBox VMs\Ubuntu_\Ubuntu_.vbox" with version "1.19-windows"
+00:09:47.592908          Finished saving settings file "C:\Users\kicks\VirtualBox VMs\Ubuntu_\Ubuntu_.vbox"
+00:09:47.706821          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:09:47.711576          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={MachineWrap} aText={The machine is not mutable, saved or running (state is PoweredOff)}, preserve=false aResultDetail=0
+00:09:49.910917          Platform architecture set to 'x86'
+00:09:49.915754          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:09:50.415974          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:09:50.455863          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={MachineWrap} aText={The machine is not mutable, saved or running (state is PoweredOff)}, preserve=false aResultDetail=0
+00:09:51.373506          Saving settings file "C:\Users\kicks\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:09:51.416551          Finished saving settings file "C:\Users\kicks\.VirtualBox\VirtualBox.xml"
+00:09:51.427641          Platform architecture set to 'x86'
+00:09:51.438256          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:09:51.644601          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:09:51.651546          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={MachineWrap} aText={The machine is not mutable, saved or running (state is PoweredOff)}, preserve=false aResultDetail=0
+00:09:52.063320          Saving settings file "C:\Users\kicks\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:09:52.109121          Finished saving settings file "C:\Users\kicks\.VirtualBox\VirtualBox.xml"
+00:09:52.120517          Platform architecture set to 'x86'
+00:09:52.128344          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:09:52.283533          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:09:52.291033          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={MachineWrap} aText={The machine is not mutable, saved or running (state is PoweredOff)}, preserve=false aResultDetail=0
+00:09:53.815140          Saving settings file "C:\Users\kicks\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:09:53.860190          Finished saving settings file "C:\Users\kicks\.VirtualBox\VirtualBox.xml"
+00:09:53.871488          Platform architecture set to 'x86'
+00:09:53.880037          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:09:54.049484          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:09:54.056115          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={MachineWrap} aText={The machine is not mutable, saved or running (state is PoweredOff)}, preserve=false aResultDetail=0
+00:09:54.150873          Saving settings file "C:\Users\kicks\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:09:54.192952          Finished saving settings file "C:\Users\kicks\.VirtualBox\VirtualBox.xml"
+00:09:54.201255          Platform architecture set to 'x86'
+00:09:54.210622          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:09:54.383957          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:09:54.389631          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={MachineWrap} aText={The machine is not mutable, saved or running (state is PoweredOff)}, preserve=false aResultDetail=0
+00:09:54.619066          Saving settings file "C:\Users\kicks\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:09:54.664868          Finished saving settings file "C:\Users\kicks\.VirtualBox\VirtualBox.xml"
+00:09:54.675956          Platform architecture set to 'x86'
+00:09:54.685496          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:09:54.883184          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:09:54.891818          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={MachineWrap} aText={The machine is not mutable, saved or running (state is PoweredOff)}, preserve=false aResultDetail=0
+00:09:55.185411          Saving settings file "C:\Users\kicks\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:09:55.230916          Finished saving settings file "C:\Users\kicks\.VirtualBox\VirtualBox.xml"
+00:09:55.242010          Platform architecture set to 'x86'
+00:09:55.251780          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:09:55.419730          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:09:55.426288          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={MachineWrap} aText={The machine is not mutable, saved or running (state is PoweredOff)}, preserve=false aResultDetail=0
+00:10:00.182835          Saving settings file "C:\Users\kicks\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:10:00.227482          Finished saving settings file "C:\Users\kicks\.VirtualBox\VirtualBox.xml"
+00:10:00.238342          Platform architecture set to 'x86'
+00:10:00.247428          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:10:00.434365          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:10:00.465035          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={MachineWrap} aText={The machine is not mutable, saved or running (state is PoweredOff)}, preserve=false aResultDetail=0
+00:10:00.545394          Saving settings file "C:\Users\kicks\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:10:00.551759          Finished saving settings file "C:\Users\kicks\.VirtualBox\VirtualBox.xml"
+00:10:00.558958          Platform architecture set to 'x86'
+00:10:00.565855          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:10:00.764350          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:10:00.771979          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={MachineWrap} aText={The machine is not mutable, saved or running (state is PoweredOff)}, preserve=false aResultDetail=0
+00:10:07.060159          Saving settings file "C:\Users\kicks\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:10:07.064722          Finished saving settings file "C:\Users\kicks\.VirtualBox\VirtualBox.xml"
+00:10:07.071857          Platform architecture set to 'x86'
+00:10:07.076980          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:10:07.378537          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:10:07.389433          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={MachineWrap} aText={The machine is not mutable, saved or running (state is PoweredOff)}, preserve=false aResultDetail=0
+00:10:07.511531          Saving settings file "C:\Users\kicks\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:10:07.553820          Finished saving settings file "C:\Users\kicks\.VirtualBox\VirtualBox.xml"
+00:10:07.562435          Platform architecture set to 'x86'
+00:10:07.570317          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:10:07.847076          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:10:07.857666          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={MachineWrap} aText={The machine is not mutable, saved or running (state is PoweredOff)}, preserve=false aResultDetail=0
+00:10:07.992546          Saving settings file "C:\Users\kicks\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:10:08.034667          Finished saving settings file "C:\Users\kicks\.VirtualBox\VirtualBox.xml"
+00:10:08.043016          Platform architecture set to 'x86'
+00:10:08.050177          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:10:08.324036          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:10:08.336536          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={MachineWrap} aText={The machine is not mutable, saved or running (state is PoweredOff)}, preserve=false aResultDetail=0
+00:10:08.481454          Saving settings file "C:\Users\kicks\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:10:08.523701          Finished saving settings file "C:\Users\kicks\.VirtualBox\VirtualBox.xml"
+00:10:08.532230          Platform architecture set to 'x86'
+00:10:08.540381          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:10:08.827168          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:10:08.837133          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={MachineWrap} aText={The machine is not mutable, saved or running (state is PoweredOff)}, preserve=false aResultDetail=0
+00:10:08.987027          Saving settings file "C:\Users\kicks\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:10:09.013383          Finished saving settings file "C:\Users\kicks\.VirtualBox\VirtualBox.xml"
+00:10:09.019374          Platform architecture set to 'x86'
+00:10:09.024487          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:10:09.257099          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:10:09.264764          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={MachineWrap} aText={The machine is not mutable, saved or running (state is PoweredOff)}, preserve=false aResultDetail=0
+00:10:09.455538          Saving settings file "C:\Users\kicks\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:10:09.500442          Finished saving settings file "C:\Users\kicks\.VirtualBox\VirtualBox.xml"
+00:10:09.511638          Platform architecture set to 'x86'
+00:10:09.521747          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:10:09.689782          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:10:09.695573          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={MachineWrap} aText={The machine is not mutable, saved or running (state is PoweredOff)}, preserve=false aResultDetail=0
+00:10:18.670924          Saving settings file "C:\Users\kicks\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:10:18.716277          Finished saving settings file "C:\Users\kicks\.VirtualBox\VirtualBox.xml"
+00:10:18.737572          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:10:18.755527          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={MachineWrap} aText={The machine is not mutable, saved or running (state is PoweredOff)}, preserve=false aResultDetail=0
+00:10:24.742955          Launched VM: 3787460960 pid: 34664 (0x8768) frontend: GUI/Qt name: wind 19
+00:10:24.858279          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:10:24.884670          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={MachineWrap} aText={The machine is not mutable, saved or running (state is PoweredOff)}, preserve=false aResultDetail=0
+00:10:31.244352          Platform architecture set to 'x86'
+00:10:31.456569          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:10:31.463965          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={MachineWrap} aText={The machine is not mutable, saved or running (state is PoweredOff)}, preserve=false aResultDetail=0
+00:10:32.050418          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={70401eef-c8e9-466b-9660-45cb3e9979e4} aComponent={ExtPackManagerWrap} aText={No extension pack by the name 'Oracle VirtualBox Extension Pack' was found}, preserve=false aResultDetail=0
+00:10:32.098972          ERROR [COM]: aRC=E_FAIL (0x80004005) aIID={bea3ef5c-de2f-4b74-aa3a-15d6249371a0} aComponent={RecordingSettingsWrap} aText={Recording not started}, preserve=false aResultDetail=0
+00:10:34.557341          ERROR [COM]: aRC=E_FAIL (0x80004005) aIID={bea3ef5c-de2f-4b74-aa3a-15d6249371a0} aComponent={RecordingSettingsWrap} aText={Recording not started}, preserve=false aResultDetail=0
+00:10:34.565766          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:10:34.579287          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={SessionMachine} aText={The machine is not mutable or saved (state is Starting)}, preserve=false aResultDetail=0
+00:10:34.610706          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={MachineWrap} aText={The machine is not mutable, saved or running (state is Starting)}, preserve=false aResultDetail=0
+00:10:36.909582          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={7d510820-a678-4730-a862-818dcd3fbed0} aComponent={MediumWrap} aText={Property 'CRYPT/KeyId' does not exist}, preserve=false aResultDetail=0
+00:10:36.910311          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={7d510820-a678-4730-a862-818dcd3fbed0} aComponent={MediumWrap} aText={Property 'CRYPT/KeyId' does not exist}, preserve=false aResultDetail=0
+00:10:36.911126          HostDnsMonitorProxy::GetDomainName: no domain set
+00:10:36.911207          HostDnsMonitorProxy::GetNameServers:
+00:10:36.911219            name server 1: 8.8.8.8
+00:10:36.911226            name server 2: 8.8.4.4
+00:10:36.911296          HostDnsMonitorProxy::GetSearchStrings:
+00:10:36.911307            no search string entries
+00:10:36.960080          ERROR [COM]: aRC=E_FAIL (0x80004005) aIID={bea3ef5c-de2f-4b74-aa3a-15d6249371a0} aComponent={RecordingSettingsWrap} aText={Recording not started}, preserve=false aResultDetail=0
+00:10:37.030517          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:10:37.076354          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={MachineWrap} aText={The machine is not mutable, saved or running (state is Running)}, preserve=false aResultDetail=0
+00:12:13.465247 dns-monitor HostDnsMonitor: updating information
+00:12:13.465320 dns-monitor HostDnsMonitor: unchanged
+00:14:38.964185          Saving settings file "C:\Users\kicks\VirtualBox VMs\wind 19\wind 19.vbox" with version "1.19-windows"
+00:14:38.975577          Finished saving settings file "C:\Users\kicks\VirtualBox VMs\wind 19\wind 19.vbox"
+00:14:39.105034          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:14:39.180754          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={MachineWrap} aText={The machine is not mutable, saved or running (state is Running)}, preserve=false aResultDetail=0
+00:15:15.436120          ERROR [COM]: aRC=E_FAIL (0x80004005) aIID={bea3ef5c-de2f-4b74-aa3a-15d6249371a0} aComponent={RecordingSettingsWrap} aText={Recording not started}, preserve=false aResultDetail=0
+00:15:15.571925          Saving settings file "C:\Users\kicks\VirtualBox VMs\wind 19\wind 19.vbox" with version "1.19-windows"
+00:15:15.577834          Finished saving settings file "C:\Users\kicks\VirtualBox VMs\wind 19\wind 19.vbox"
+00:15:15.588092          Saving settings file "C:\Users\kicks\VirtualBox VMs\wind 19\wind 19.vbox" with version "1.19-windows"
+00:15:15.593802          Finished saving settings file "C:\Users\kicks\VirtualBox VMs\wind 19\wind 19.vbox"
+00:15:15.621412          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:15:15.663034          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={MachineWrap} aText={The machine is not mutable, saved or running (state is Running)}, preserve=false aResultDetail=0
+00:15:15.807933          Saving settings file "C:\Users\kicks\VirtualBox VMs\wind 19\wind 19.vbox" with version "1.19-windows"
+00:15:15.812739          Finished saving settings file "C:\Users\kicks\VirtualBox VMs\wind 19\wind 19.vbox"
+00:15:15.829451          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:15:15.863945          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={MachineWrap} aText={The machine is not mutable, saved or running (state is Running)}, preserve=false aResultDetail=0
+00:16:40.209732          Saving settings file "C:\Users\kicks\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:16:40.214196          Finished saving settings file "C:\Users\kicks\.VirtualBox\VirtualBox.xml"
+00:16:40.239696          Saving settings file "C:\Users\kicks\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:16:40.244575          Finished saving settings file "C:\Users\kicks\.VirtualBox\VirtualBox.xml"
+00:19:26.760196          Saving settings file "C:\Users\kicks\VirtualBox VMs\wind 19\wind 19.vbox" with version "1.19-windows"
+00:19:26.766805          Finished saving settings file "C:\Users\kicks\VirtualBox VMs\wind 19\wind 19.vbox"
+00:19:26.804041          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:19:26.828320          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={MachineWrap} aText={The machine is not mutable, saved or running (state is Running)}, preserve=false aResultDetail=0
+00:19:47.512239          Saving settings file "C:\Users\kicks\VirtualBox VMs\wind 19\wind 19.vbox" with version "1.19-windows"
+00:19:47.518561          Finished saving settings file "C:\Users\kicks\VirtualBox VMs\wind 19\wind 19.vbox"
+00:19:47.540949          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:19:47.564853          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={MachineWrap} aText={The machine is not mutable, saved or running (state is Running)}, preserve=false aResultDetail=0
+00:27:13.600036 dns-monitor HostDnsMonitor: updating information
+00:27:13.600514 dns-monitor HostDnsMonitor: unchanged
+00:42:13.654582 dns-monitor HostDnsMonitor: updating information
+00:42:13.654683 dns-monitor HostDnsMonitor: unchanged
+00:45:42.159285 dns-monitor HostDnsMonitor: updating information
+00:45:42.159310 dns-monitor HostDnsMonitor: unchanged
+00:57:13.682429 dns-monitor HostDnsMonitor: updating information
+00:57:13.682477 dns-monitor HostDnsMonitor: unchanged
+00:59:10.568151          ERROR [COM]: aRC=E_FAIL (0x80004005) aIID={bea3ef5c-de2f-4b74-aa3a-15d6249371a0} aComponent={RecordingSettingsWrap} aText={Recording not started}, preserve=false aResultDetail=0
+00:59:10.597446          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:59:10.617395          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={MachineWrap} aText={The machine is not mutable, saved or running (state is Paused)}, preserve=false aResultDetail=0
+00:59:12.635468          ERROR [COM]: aRC=E_FAIL (0x80004005) aIID={bea3ef5c-de2f-4b74-aa3a-15d6249371a0} aComponent={RecordingSettingsWrap} aText={Recording not started}, preserve=false aResultDetail=0
+00:59:12.652118          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:59:12.668076          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={MachineWrap} aText={The machine is not mutable, saved or running (state is Running)}, preserve=false aResultDetail=0
+01:04:20.456185 dns-monitor HostDnsMonitor: updating information
+01:04:20.456324 dns-monitor HostDnsMonitor: unchanged
+01:12:13.725163 dns-monitor HostDnsMonitor: updating information
+01:12:13.725244 dns-monitor HostDnsMonitor: unchanged
+01:19:31.108259          ERROR [COM]: aRC=E_FAIL (0x80004005) aIID={bea3ef5c-de2f-4b74-aa3a-15d6249371a0} aComponent={RecordingSettingsWrap} aText={Recording not started}, preserve=false aResultDetail=0
+01:19:31.144195          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+01:19:31.167771          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={MachineWrap} aText={The machine is not mutable, saved or running (state is Stopping)}, preserve=false aResultDetail=0
+01:19:31.421069          Saving settings file "C:\Users\kicks\VirtualBox VMs\wind 19\wind 19.vbox" with version "1.19-windows"
+01:19:31.426774          Finished saving settings file "C:\Users\kicks\VirtualBox VMs\wind 19\wind 19.vbox"
+01:19:31.460294          ERROR [COM]: aRC=E_FAIL (0x80004005) aIID={bea3ef5c-de2f-4b74-aa3a-15d6249371a0} aComponent={RecordingSettingsWrap} aText={Recording not started}, preserve=false aResultDetail=0
+01:19:31.497183          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+01:19:31.522504          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={MachineWrap} aText={The machine is not mutable, saved or running (state is PoweredOff)}, preserve=false aResultDetail=0
+01:19:43.693369          Saving settings file "C:\Users\kicks\VirtualBox VMs\wind 19\wind 19.vbox" with version "1.19-windows"
+01:19:43.703017          Finished saving settings file "C:\Users\kicks\VirtualBox VMs\wind 19\wind 19.vbox"
+01:19:43.759420          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+01:19:43.771995          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={MachineWrap} aText={The machine is not mutable, saved or running (state is PoweredOff)}, preserve=false aResultDetail=0
+01:19:46.217114          ERROR [COM]: aRC=E_INVALIDARG (0x80070057) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={SessionMachine} aText={Properties with TRANSIENT or TRANSRESET flag cannot be set or modified if VM is not running}, preserve=false aResultDetail=0
+01:20:15.835704 Watcher  Saving settings file "C:\Users\kicks\VirtualBox VMs\wind 19\wind 19.vbox" with version "1.19-windows"
+01:20:15.840827 Watcher  Finished saving settings file "C:\Users\kicks\VirtualBox VMs\wind 19\wind 19.vbox"
+01:20:22.747354 MainPower Host suspending: Paused 0 VMs
+01:27:37.028828 MainPower Host resumed: Resumed 0 VMs
+01:27:37.703365 USBPROXY usbLibGetDevices: Starting USB device enumeration
+01:27:37.734409 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&16bab057&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 14
+01:27:37.734905 USBPROXY usbLibGetDevices: Found 2 USB devices, 0 captured
+01:27:38.586746 dns-monitor HostDnsMonitor: updating information
+01:27:38.586785 dns-monitor HostDnsMonitor: unchanged
+01:27:44.671428 USBPROXY usbLibGetDevices: Starting USB device enumeration
+01:27:44.677383 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&16bab057&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 14
+01:27:44.677916 USBPROXY usbLibGetDevices: Found 3 USB devices, 0 captured
+01:28:16.409502 dns-monitor HostDnsMonitor: updating information
+01:28:16.409572 dns-monitor HostDnsMonitor: unchanged
+01:29:19.190516 MainPower Host suspending: Paused 0 VMs
+01:54:40.689080 MainPower Host resumed: Resumed 0 VMs
+01:54:41.661131 USBPROXY usbLibGetDevices: Starting USB device enumeration
+01:54:41.669461 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&16bab057&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 14
+01:54:41.670023 USBPROXY usbLibGetDevices: Found 2 USB devices, 0 captured
+01:54:42.709143 dns-monitor HostDnsMonitor: updating information
+01:54:42.709167 dns-monitor HostDnsMonitor: unchanged
+01:54:48.058969 USBPROXY usbLibGetDevices: Starting USB device enumeration
+01:54:48.086740 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&16bab057&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 14
+01:54:48.087151 USBPROXY usbLibGetDevices: Found 3 USB devices, 0 captured
+01:54:49.114926 USBPROXY usbLibGetDevices: Starting USB device enumeration
+01:54:49.116752 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&16bab057&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 14
+01:54:49.117001 USBPROXY usbLibGetDevices: Found 2 USB devices, 0 captured
+01:54:57.153446 USBPROXY usbLibGetDevices: Starting USB device enumeration
+01:54:57.157960 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&16bab057&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 14
+01:54:57.158185 USBPROXY usbLibGetDevices: Found 3 USB devices, 0 captured
+01:59:49.627926 USBPROXY usbLibGetDevices: Starting USB device enumeration
+01:59:49.629478 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&16bab057&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 14
+01:59:49.629702 USBPROXY usbLibGetDevices: Found 2 USB devices, 0 captured
+02:00:07.890952 USBPROXY usbLibGetDevices: Starting USB device enumeration
+02:00:07.898834 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&16bab057&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 14
+02:00:07.899515 USBPROXY usbLibGetDevices: Found 3 USB devices, 0 captured
+02:02:48.510673 main     VirtualBox: object deletion starts
+02:02:48.510882 main     ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={7d510820-a678-4730-a862-818dcd3fbed0} aComponent={MediumWrap} aText={Medium 'C:\Users\kicks\VirtualBox VMs\Wind 11\Wind 11.vdi' cannot be closed because it is still attached to 1 virtual machines}, preserve=false aResultDetail=0
+02:02:48.514168 main     ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={7d510820-a678-4730-a862-818dcd3fbed0} aComponent={MediumWrap} aText={Medium 'C:\Users\kicks\VirtualBox VMs\ws2019\ws2019.vdi' cannot be closed because it is still attached to 1 virtual machines}, preserve=false aResultDetail=0
+02:02:48.515472 main     ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={7d510820-a678-4730-a862-818dcd3fbed0} aComponent={MediumWrap} aText={Medium 'C:\Users\kicks\VirtualBox VMs\wind 19\wind 19.vdi' cannot be closed because it is still attached to 1 virtual machines}, preserve=false aResultDetail=0
+02:02:48.516716 main     ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={7d510820-a678-4730-a862-818dcd3fbed0} aComponent={MediumWrap} aText={Medium 'C:\Users\kicks\VirtualBox VMs\Ubuntu_\Ubuntu_.vdi' cannot be closed because it is still attached to 1 virtual machines}, preserve=false aResultDetail=0
+02:02:48.522539 main     HostDnsMonitor: shutting down ...
+02:02:48.522911 main     HostDnsMonitor: shut down
+02:02:48.535621 Watcher  ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={d644ad1e-c501-4fc7-9ab6-aa6d763bc540} aComponent={VirtualBoxWrap} aText={The object is not ready}, preserve=false aResultDetail=0
+02:02:48.536518 main     VirtualBox: object deleted

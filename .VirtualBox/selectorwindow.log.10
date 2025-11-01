@@ -1,0 +1,41 @@
+00:00:00.519176 VirtualBox GUI VM Selector Window 7.1.8 r168469 win.amd64 (Apr 11 2025 16:45:31) release log
+00:00:00.519178 Log opened 2025-07-17T23:36:32.213157100Z
+00:00:00.519178 Build Type: release
+00:00:00.519181 OS Product: Windows 11
+00:00:00.519181 OS Release: 10.0.26100
+00:00:00.519182 OS Service Pack: 
+00:00:00.529881 DMI Product Name: ASUS TUF Gaming F15 FX506LI_FX506LI
+00:00:00.533440 DMI Product Version: 1.0
+00:00:00.533446 Firmware type: UEFI
+00:00:00.533769 Secure Boot: Disabled
+00:00:00.533774 Host RAM: 12125MB (11.8GB) total, 4146MB (4.0GB) available
+00:00:00.533778 Executable: C:\Program Files\Oracle\VirtualBox\VirtualBox.exe
+00:00:00.533778 Process ID: 35364
+00:00:00.533778 Package type: WINDOWS_64BITS_GENERIC
+00:00:00.533779 Windows Features:
+00:00:00.533779   Core Isolation (Memory Integrity): ENABLED
+00:00:00.533896 Qt version: 6.5.3
+00:00:00.534427 GUI: UIMediumEnumerator: Initial medium-enumeration finished!
+00:00:00.544484 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:00:00.544512 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:23:42.077874 GUI: UIMediumEnumerator: Medium with key={{970b4f64-018a-4aa2-8512-93bddca1c45d}} created
+00:23:42.188987 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:25:40.689752 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:26:11.350398 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:26:15.847107 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:26:30.619581 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:26:30.673440 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:26:38.034181 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:26:38.741671 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:27:06.868252 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:28:07.648694 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:55:54.140631 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:55:54.289023 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:56:31.674099 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:56:44.817024 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:56:56.950093 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:57:01.189332 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:57:41.842395 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:58:20.235153 GUI: UIMediumEnumerator: Medium-enumeration finished!
+01:41:40.359082 GUI: UIMediumEnumerator: Medium-enumeration finished!
+01:41:40.359618 Log rotated - Log started 2025-07-17T23:36:32.213157100Z
